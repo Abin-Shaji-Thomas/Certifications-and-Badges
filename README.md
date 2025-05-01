@@ -61,6 +61,7 @@
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Great%20Learnign%20Application%20Secuirty%20Certificate.png?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Great%20Learning%20Network%20Secuirty%20Certificate.png?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Great%20Learning%20Introduction%20to%20Asset%20Secuirty%20Certificate.jpeg?raw=true" width="400"/>
 </div>
 
 ---
