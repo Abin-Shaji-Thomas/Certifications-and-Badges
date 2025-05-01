@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Certificate.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Data%20Science.jpg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Python%20Essentials%202%20Certificate.jpg?raw=true" width="400"/>
+  
 </div>
 
 ---
