@@ -1,6 +1,6 @@
 # 📄 My Certificates and Badges
 
-## 🏆 Certificates
+## 🏆 Certifications
 
 ---
 
@@ -17,7 +17,6 @@
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Certificate.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Data%20Science.jpg?raw=true" width="400"/>
-  
 </div>
 
 ---
@@ -30,10 +29,12 @@
 
 ---
 
-## E-CELL IIT BOMBAY
+## INFOSYS SPRINGBOARD
 
 <div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/E%20Cell%20IIT%20bombay%20Eureka%20Zonalist%20Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys%20Springboard%20Data-Level%20Parallelism%20Certificate.jpeg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys%20Springboard%20Instruction%20Parallelism%20Certificate.jpeg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys%20Springboard%20Introduction%20to%20Computer%20Architecture%20Certificate.jpeg?raw=true" width="400"/>
 </div>
 
 ---
@@ -64,6 +65,30 @@
 
 ---
 
+## E-CELL IIT BOMBAY
+
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/E%20Cell%20IIT%20bombay%20Eureka%20Zonalist%20Certificate.jpg?raw=true" width="400"/>
+</div>
+
+---
+
+## KARUNYA BOOTCAMP
+
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Karunya%20Bootcamp%20on%20Human-Centered%20AI%20for%20Empowering%20Persons%20with%20Disabilities%20Certificate.jpeg?raw=true" width="400"/>
+</div>
+
+---
+
+## INTERNSHIP STUDIO
+
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Internship%20Studio%20for%20Participating%20in%20Common%20Internship%20Test%20Certificate.jpeg?raw=true" width="400"/>
+</div>
+
+---
+
 ## OTHERS
 
 <div align="center">
@@ -81,4 +106,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Badge.png?raw=true" width="200"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Data%20Science%20Badge.png?raw=true" width="200"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft%20Introduction%20to%20Computer%20Architecture%20Badge.png?raw=true" width="200"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM%20web%20development%20Fundamentals%20Badge.png?raw=true" width="200"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft%20Binary%20and%20Logic%20Gates%20Badge.jpeg?raw=true" width="200"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft%20Computer%20Architecture%20Badge.jpeg?raw=true" width="200"/>
 </div>
