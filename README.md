@@ -102,6 +102,16 @@
 
 ---
 
+
+## 🏢 Industry Experience / Job Simulations
+
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/ABIN_SHAJI_THOMAS_Certificate_Of_Completion.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/cybersecurity_job_simulation_mastercard.jpg?raw=true" width="400"/>
+</div>
+
+---
+
 ## 🥇 Badges
 
 <div align="center">
