@@ -10,7 +10,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft%20Secuirty%2CCompliance%20and%20Identity%20Fundamentals%20Certificate.jpg?raw=true" width="400"/>
 </div>
 
----
+--- 
 
 ## CISCO
 
