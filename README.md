@@ -17,8 +17,8 @@
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Junior_Cybersecurity_Analyst_Career_Path_cisco_certificate.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/JuniorCybersecurityAnalystCredlyCertificate.jpg?raw=true" width="400/">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Certificate.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Introduction_to_IoT_certificate_abinshaji-karunya-edu-in_12eb1fd7-90f0-420c-bb52-8517c55c6113_page-0001.jpg?raw=true "width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Certificate.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IntrotoIoTUpdate20250828-32-1gk8cv_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Data%20Science.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Python%20Essentials%202%20Certificate.jpg?raw=true" width="400"/>
