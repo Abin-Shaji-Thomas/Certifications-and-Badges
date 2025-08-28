@@ -28,6 +28,7 @@
 <div align="center">
    <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM%20Web%20Development%20Fundamentals%20Certificate.jpg?raw=true" width="400"/>
    <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cybersecurity_Fundamentals_IBM.jpg?raw=true" width="400"/>
+   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_AI_Certificate.jpg?raw=true" width="400"/>
 </div>
 
 ---
