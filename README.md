@@ -5,40 +5,35 @@
 ---
 
 ## MICROSOFT
-
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft%20Secuirty%2CCompliance%20and%20Identity%20Fundamentals%20Certificate.jpg?raw=true" width="400"/>
 </div>
 
---- 
+---
 
 ## CISCO
-
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Junior_Cybersecurity_Analyst_Career_Path_cisco_certificate.jpg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/JuniorCybersecurityAnalystCredlyCertificate.jpg?raw=true" width="400/">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Introduction_to_IoT_certificate_abinshaji-karunya-edu-in_12eb1fd7-90f0-420c-bb52-8517c55c6113_page-0001.jpg?raw=true "width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/JuniorCybersecurityAnalystCredlyCertificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Introduction_to_IoT_certificate_abinshaji-karunya-edu-in_12eb1fd7-90f0-420c-bb52-8517c55c6113_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Certificate.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IntrotoIoTUpdate20250828-32-1gk8cv_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Data%20Science.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Python%20Essentials%202%20Certificate.jpg?raw=true" width="400"/>
-
 </div>
 
 ---
 
 ## IBM
-
 <div align="center">
-   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM%20Web%20Development%20Fundamentals%20Certificate.jpg?raw=true" width="400"/>
-   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cybersecurity_Fundamentals_IBM.jpg?raw=true" width="400"/>
-   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_AI_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM%20Web%20Development%20Fundamentals%20Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cybersecurity_Fundamentals_IBM.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_AI_Certificate.jpg?raw=true" width="400"/>
 </div>
 
 ---
 
 ## INFOSYS SPRINGBOARD
-
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys%20Springboard%20Data-Level%20Parallelism%20Certificate.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys%20Springboard%20Instruction%20Parallelism%20Certificate.jpeg?raw=true" width="400"/>
@@ -48,7 +43,6 @@
 ---
 
 ## REDHAT
-
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Redhat%20Getting%20Started%20With%20Linux%20Fundamentals.jpg?raw=true" width="400"/>
 </div>
@@ -56,7 +50,6 @@
 ---
 
 ## SIMPLILEARN
-
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simpliearn%20Introduction%20to%20Cybersecurity.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simplilearn%20C%20Programming%20Basics.jpg?raw=true" width="400"/>
@@ -65,7 +58,6 @@
 ---
 
 ## GREAT LEARNING
-
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Great%20Learnign%20Application%20Secuirty%20Certificate.png?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Great%20Learning%20Network%20Secuirty%20Certificate.png?raw=true" width="400"/>
@@ -74,32 +66,32 @@
 
 ---
 
-## E-CELL IIT BOMBAY
-
+## COMPETITIONS & GLOBAL CHALLENGES
 <div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Google_Soultion_Challenge.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/E%20Cell%20IIT%20bombay%20Eureka%20Zonalist%20Certificate.jpg?raw=true" width="400"/>
 </div>
 
 ---
 
-## KARUNYA BOOTCAMP
-
+## BOOTCAMPS & TRAININGS
 <div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/OSINT_MANTRA_2025.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Karunya%20Bootcamp%20on%20Human-Centered%20AI%20for%20Empowering%20Persons%20with%20Disabilities%20Certificate.jpeg?raw=true" width="400"/>
-</div>
-
----
-
-## INTERNSHIP STUDIO
-
-<div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Internship%20Studio%20for%20Participating%20in%20Common%20Internship%20Test%20Certificate.jpeg?raw=true" width="400"/>
 </div>
 
 ---
 
-## OTHERS
+## 🏢 INTERNSHIPS & JOB SIMULATIONS
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/ABIN_SHAJI_THOMAS_Certificate_Of_Completion.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/cybersecurity_job_simulation_mastercard.jpg?raw=true" width="400"/>
+</div>
 
+---
+
+## OTHER CERTIFICATIONS
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Computer%20Skills%20Proficiency%20Test%20Certificate.png?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Doc%20Acade%2010%20in%201%20Full%20Stack%20Developer.jpg?raw=true" width="400"/>
@@ -108,21 +100,10 @@
 
 ---
 
-
-## 🏢 Industry Experience / Job Simulations
-
-<div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/ABIN_SHAJI_THOMAS_Certificate_Of_Completion.jpg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/cybersecurity_job_simulation_mastercard.jpg?raw=true" width="400"/>
-</div>
-
----
-
 ## 🥇 Badges
-
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft%20Secuirty%2CCompliance%20and%20Identity%20Fundamentals%20Badge.png?raw=true" width="200"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/junior-cybersecurity-analyst-career-path.1.png?raw=true "width=200"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/junior-cybersecurity-analyst-career-path.1.png?raw=true" width="200"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Cybersecuirty%20Badge.png?raw=true" width="200"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/introduction-to-iot.png?raw=true" width="200"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco%20Introduction%20to%20Data%20Science%20Badge.png?raw=true" width="200"/>
