@@ -68,7 +68,7 @@
 
 ## COMPETITIONS & GLOBAL CHALLENGES
 <div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Google_Soultion_Challenge.jpeg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Google_Solution_Challenge.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/E%20Cell%20IIT%20bombay%20Eureka%20Zonalist%20Certificate.jpg?raw=true" width="400"/>
 </div>
 
