@@ -41,6 +41,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys_Springboard_Data_Level_Parallelism_Certificate.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys_Springboard_Instruction_Parallelism_Certificate.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys_Springboard_Introduction_to_Computer_Architecture_Certificate.jpeg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys_Springboard_Java_Programming_Fundamentals_Certificate.png?raw=true" width="400"/>
 </div>
 
 ---
@@ -126,7 +127,6 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Introduction_to_IoT_Badge.png?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Introduction_to_Data_Science_Badge.png?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Python_Essentials_2_Badge.png?raw=true" width="150"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Java_Fundamentals_Badge.png?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_Cybersecurity_Fundamentals_Badge.png?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_Web_Development_Fundamentals_Badge.png?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM_AI_Fundamentals_Badge.png?raw=true" width="150"/>
@@ -134,5 +134,4 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft_Introduction_to_Computer_Architecture_Badge.png?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft_Binary_and_Logic_Gates_Badge.jpeg?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft_Computer_Architecture_Badge.jpeg?raw=true" width="150"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/DocAcademy_10in1_FullStack_Developer_Badge.jpg?raw=true" width="150"/>
 </div>
