@@ -115,7 +115,7 @@
 ## OTHER CERTIFICATIONS
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Computer_Skills_Proficiency_Test_Certificate.png?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/DocAcademy_10in1_FullStack_Developer_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/DocAcademy_10in1_FullStack_Developer_Badge.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Kaggle_Introduction_to_Programming_Certificate.png?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Samsung_Galaxy_AI_Treasure_Hunt_Unstop_Participation_Certificate_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/InternshipStudio_Common_Internship_Test_Participation_Certificate.jpeg?raw=true" width="400"/>
