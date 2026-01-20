@@ -4,6 +4,15 @@
 
 ---
 
+## 🏢 INTERNSHIPS
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Virtual_Internship_2025_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Pinnacle_Labs_Cybersecurity_Internship_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/TheRedUsers_Internship_Completion.jpg?raw=true" width="400"/>
+</div>
+
+---
+
 ## MICROSOFT
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft_Security_Compliance_Identity_Fundamentals_Certificate.jpg?raw=true" width="400"/>
@@ -36,6 +45,13 @@
 
 ---
 
+## TRYHACKME
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/TryHackMe_Advent_of_Cyber_2025_Certificate_page-0001.jpg?raw=true" width="400"/>
+</div>
+
+---
+
 ## INFOSYS SPRINGBOARD
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Infosys_Springboard_Data_Level_Parallelism_Certificate.jpeg?raw=true" width="400"/>
@@ -49,6 +65,21 @@
 
 ---
 
+## COMPETITIONS & GLOBAL CHALLENGES
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Google_Solution_Challenge_Certificate.jpeg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IIT_Bombay_E-Cell_Eureka_Zonalist_Certificate.jpg?raw=true" width="400"/>
+</div>
+
+---
+
+## 💼 JOB SIMULATIONS
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Mastercard_Cybersecurity_Job_Simulation_Certificate.jpg?raw=true" width="400"/>
+</div>
+
+---
+
 ## REDHAT
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/RedHat_Getting_Started_Linux_Fundamentals_Certificate.jpg?raw=true" width="400"/>
@@ -56,10 +87,10 @@
 
 ---
 
-## SIMPLILEARN
+## BOOTCAMPS & TRAININGS
 <div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simplilearn_Introduction_to_Cybersecurity_Certificate.jpg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simplilearn_C_Programming_Basics_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/OSINT_Mantra_2025_Certificate.jpeg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Karunya_Bootcamp_Human_Centered_AI_Empowering_Disabilities_Certificate.jpeg?raw=true" width="400"/>
 </div>
 
 ---
@@ -73,41 +104,10 @@
 
 ---
 
-## TRYHACKME
+## SIMPLILEARN
 <div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/TryHackMe_Advent_of_Cyber_2025_Certificate_page-0001.jpg?raw=true" width="400"/>
-</div>
-
----
-
-## COMPETITIONS & GLOBAL CHALLENGES
-<div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Google_Solution_Challenge_Certificate.jpeg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IIT_Bombay_E-Cell_Eureka_Zonalist_Certificate.jpg?raw=true" width="400"/>
-</div>
-
----
-
-## BOOTCAMPS & TRAININGS
-<div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/OSINT_Mantra_2025_Certificate.jpeg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Karunya_Bootcamp_Human_Centered_AI_Empowering_Disabilities_Certificate.jpeg?raw=true" width="400"/>
-</div>
-
----
-
-## 🏢 INTERNSHIPS
-<div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Virtual_Internship_2025_Certificate_page-0001.jpg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Pinnacle_Labs_Cybersecurity_Internship_Certificate.jpg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/TheRedUsers_Internship_Completion.jpg?raw=true" width="400"/>
-</div>
-
----
-
-## 💼 JOB SIMULATIONS
-<div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Mastercard_Cybersecurity_Job_Simulation_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simplilearn_Introduction_to_Cybersecurity_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simplilearn_C_Programming_Basics_Certificate.jpg?raw=true" width="400"/>
 </div>
 
 ---
