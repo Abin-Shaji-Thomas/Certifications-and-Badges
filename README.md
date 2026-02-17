@@ -119,6 +119,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Kaggle_Introduction_to_Programming_Certificate.png?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Samsung_Galaxy_AI_Treasure_Hunt_Unstop_Participation_Certificate_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/InternshipStudio_Common_Internship_Test_Participation_Certificate.jpeg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/ARM_Cortext-M_Architecture_Overview_Microchip_University_page-0001.jpg"width="400"/>
 </div>
 
 ---
@@ -138,4 +139,6 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft_Introduction_to_Computer_Architecture_Badge.png?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft_Binary_and_Logic_Gates_Badge.jpeg?raw=true" width="150"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft_Computer_Architecture_Badge.jpeg?raw=true" width="150"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/AI_Responsibility_Pledge_Campaign.jpeg?raw=true"
+  width="150"/>
 </div>
