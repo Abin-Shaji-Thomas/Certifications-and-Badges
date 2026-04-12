@@ -31,6 +31,9 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Getting_Started_with_Packet_Tracer_Certificate_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Exploring_IoT_with_Packet_Tracer_Certificate_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_Exploring_Networking_with_Packet_Tracer_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_CCNA_Introduction_to_Networks_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_CCNA_Switching_Routing_Wireless_Essentials_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco_CCNA_Enterprise_Networking_Security_Automation_Certificate_page-0001.jpg?raw=true" width="400"/>
 </div>
 
 ---
@@ -108,6 +111,32 @@
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simplilearn_Introduction_to_Cybersecurity_Certificate.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simplilearn_C_Programming_Basics_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Simplilearn_Embedded_Systems_Certificate_page-0001.jpg?raw=true" width="400"/>
+</div>
+
+---
+
+## AWS
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/AWS_Networking_Basics_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/AWS_IPv6_Application_Networking_Internet_Edge_Connectivity_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/AWS_IPv6_Design_and_Build_Networks_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/AWS_Network_Monitoring_and_Troubleshooting_Certificate_page-0001.jpg?raw=true" width="400"/>
+</div>
+
+---
+
+## AZURE
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Azure_Create_Virtual_Machine_Deploy_Web_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Azure_Create_REST_API_NodeJS_Serverless_Functions_Certificate_page-0001.jpg?raw=true" width="400"/>
+</div>
+
+---
+
+## NVIDIA
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Nvidia_Introduction_to_Networking_Certificate_page-0001.jpg?raw=true" width="400"/>
 </div>
 
 ---
