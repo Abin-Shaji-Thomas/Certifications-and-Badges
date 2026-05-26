@@ -81,6 +81,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/Google_Solution_Challenge_Certificate.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/IIT_Bombay_E-Cell_Eureka_Zonalist_Certificate.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/Hashes_Over_Roses_3.0_CTF_Participation_Certificate.png?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/Karunya_MindKraft_2026_Participation_Certificate_page-0001.jpg?raw=true" width="400"/>
 </div>
 
 ---
@@ -161,6 +162,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/Samsung_Galaxy_AI_Treasure_Hunt_Unstop_Participation_Certificate_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/InternshipStudio_Common_Internship_Test_Participation_Certificate.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/ARM_Cortext-M_Architecture_Overview_Microchip_University_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/HackAndFix_COFPS_Certified_Online_Fraud_Prevention_Specialist_Certificate_page-0001.jpg?raw=true" width="400"/>
 </div>
 
 ---
