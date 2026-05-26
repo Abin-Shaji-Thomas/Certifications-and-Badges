@@ -13,6 +13,14 @@
 
 ---
 
+## 🏅 LETTERS OF APPRECIATION
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/LettersOfAppreciation/Karunya_MindKraft_2026_Letter_of_Appreciation.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/LettersOfAppreciation/Samcommunity_Events_MindKraft_2026_Letter_of_Appreciation_page-0001.jpg?raw=true" width="400"/>
+</div>
+
+---
+
 ## MICROSOFT
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft/Microsoft_Security_Compliance_Identity_Fundamentals_Certificate.jpg?raw=true" width="400"/>
@@ -72,6 +80,7 @@
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/Google_Solution_Challenge_Certificate.jpeg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/IIT_Bombay_E-Cell_Eureka_Zonalist_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/Hashes_Over_Roses_3.0_CTF_Participation_Certificate.png?raw=true" width="400"/>
 </div>
 
 ---
@@ -79,6 +88,8 @@
 ## 💼 JOB SIMULATIONS
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/JobSimulations/Mastercard_Cybersecurity_Job_Simulation_Certificate.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/JobSimulations/Deloitte_Cyber_Job_Simulation_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/JobSimulations/Tata_Cybersecurity_Analyst_Job_Simulation_Certificate_page-0001.jpg?raw=true" width="400"/>
 </div>
 
 ---
