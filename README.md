@@ -64,17 +64,9 @@
 
 ---
 
-## ☁️ GOOGLE CLOUD – SKILL BADGES (GOOGLE ARCADE)
-
-> 🎯 **Google Arcade** skill badges earned through hands-on labs on Google Cloud. Each badge represents a verified, lab-based skill achievement.
-
+## TRYHACKME
 <div align="center">
-
-| <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/GoogleCloud/GoogleCloud_Create_Your_First_Gemini_Enterprise_Application_Badge.png?raw=true" width="180"/> | <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/GoogleCloud/GoogleCloud_Deploy_Kubernetes_Applications_on_Google_Cloud_Badge.png?raw=true" width="180"/> | <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/GoogleCloud/GoogleCloud_Develop_Your_Google_Cloud_Network_Badge.png?raw=true" width="180"/> |
-|:---:|:---:|:---:|
-| **Create Your First Gemini Enterprise Application** | **Deploy Kubernetes Applications on Google Cloud** | **Develop Your Google Cloud Network** |
-| 🤖 Artificial Intelligence · Introductory | 🐳 Infrastructure · Intermediate | 🌐 Networking · Intermediate |
-
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/TryHackMe/TryHackMe_Advent_of_Cyber_2025_Certificate_page-0001.jpg?raw=true" width="400"/>
 </div>
 
 ---
@@ -96,9 +88,14 @@
 
 ---
 
-## TRYHACKME
+## ☁️ GOOGLE CLOUD – SKILL BADGES
 <div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/TryHackMe/TryHackMe_Advent_of_Cyber_2025_Certificate_page-0001.jpg?raw=true" width="400"/>
+
+| <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/GoogleCloud/GoogleCloud_Create_Your_First_Gemini_Enterprise_Application_Badge.png?raw=true" width="180"/> | <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/GoogleCloud/GoogleCloud_Deploy_Kubernetes_Applications_on_Google_Cloud_Badge.png?raw=true" width="180"/> | <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/GoogleCloud/GoogleCloud_Develop_Your_Google_Cloud_Network_Badge.png?raw=true" width="180"/> |
+|:---:|:---:|:---:|
+| **Create Your First Gemini Enterprise Application** | **Deploy Kubernetes Applications on Google Cloud** | **Develop Your Google Cloud Network** |
+| 🤖 Artificial Intelligence · Introductory | 🐳 Infrastructure · Intermediate | 🌐 Networking · Intermediate |
+
 </div>
 
 ---
