@@ -223,3 +223,8 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft/Skillsoft_Computer_Architecture_Badge.jpeg?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/AI_Responsibility_Pledge_Campaign.jpeg?raw=true" width="175"/>
 </div>
+
+
+
+
+#hj9jjopjhugb[ldgouipqegfi]
