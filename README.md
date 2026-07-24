@@ -185,7 +185,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/Kaggle_Introduction_to_Programming_Certificate.png?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Competitions/Samsung_Galaxy_AI_Treasure_Hunt_Unstop_Participation_Certificate_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/InternshipStudio_Common_Internship_Test_Participation_Certificate.jpeg?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/ARM_Cortext-M_Architecture_Overview_Microchip_University_page-0000.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/ARM_Cortext-M_Architecture_Overview_Microchip_University_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/Computer_Skills_Proficiency_Test_Certificate.png?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Other/DBMS%20Course%20-%20Master%20the%20Fundamentals%20and%20Advanced%20Concepts.png?raw=true" width="400"/>
 </div>
