@@ -4,13 +4,6 @@
 
 ---
 
-## HACKERSDADDY
-<div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/HackersDaddy/JWPT_Certificate_page-0001.png?raw=true" width="400"/>
-</div>
-
----
-
 ## 🏢 INTERNSHIPS
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Internships/ShadowFox_Internship_Completion_Certificate_page-0001.jpg?raw=true" width="400"/>
@@ -27,6 +20,13 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/LettersOfAppreciation/Karunya_MindKraft_2026_Letter_of_Appreciation.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/LettersOfAppreciation/Samcommunity_Events_MindKraft_2026_Letter_of_Appreciation_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/LettersOfAppreciation/Karunya_MindSpark25_CTF_Appreciation_Letter_page-0001.jpg?raw=true" width="400"/>
+</div>
+
+---
+
+## HACKERSDADDY
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/HackersDaddy/JWPT_Certificate_page-0001.png?raw=true" width="400"/>
 </div>
 
 ---
