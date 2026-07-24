@@ -4,6 +4,13 @@
 
 ---
 
+## HACKERSDADDY
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/HackersDaddy/JWPT_Certificate_page-0001.png?raw=true" width="400"/>
+</div>
+
+---
+
 ## 🏢 INTERNSHIPS
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Internships/ShadowFox_Internship_Completion_Certificate_page-0001.jpg?raw=true" width="400"/>
@@ -45,6 +52,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_CCNA_Introduction_to_Networks_Certificate_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_CCNA_Switching_Routing_Wireless_Essentials_Certificate_page-0001.jpg?raw=true" width="400"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_CCNA_Enterprise_Networking_Security_Automation_Certificate_page-0001.jpg?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_HTML_Essentials_Certificate.png?raw=true" width="400"/>
 </div>
 
 ---
@@ -196,6 +204,7 @@
 ### 🔷 Microsoft · Cisco · IBM · RedHat · Skillsoft
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft/Microsoft_Security_Compliance_Identity_Fundamentals_Badge.png?raw=true" width="175"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_HTML_Essentials_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_Junior_Cybersecurity_Analyst_Career_Path_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_Introduction_to_Cybersecurity_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_Introduction_to_IoT_Badge.png?raw=true" width="175"/>
