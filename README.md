@@ -200,14 +200,6 @@
 
 ---
 
-## 📚 NPTEL
-<div align="center">
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/NPTEL/NPTEL_English_Language_for_Competitive_Exams_Certificate_page-0001.png?raw=true" width="400"/>
-  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/NPTEL/NPTEL_Human_Computer_Interaction_Certificate_page-0001.png?raw=true" width="400"/>
-</div>
-
----
-
 ## 🥇 Badges
 
 ### ☁️ Google Cloud
