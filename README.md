@@ -99,6 +99,14 @@
 
 ---
 
+## 🍃 MONGODB
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/MongoDB/MongoDB_CRUD_Operations_Certificate_page-0001.png?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/MongoDB/MongoDB_From_Relational_to_Document_Model_Certificate_page-0001.png?raw=true" width="400"/>
+</div>
+
+---
+
 ## ☁️ GOOGLE CLOUD – SKILL BADGES
 <div align="center">
 
@@ -192,6 +200,14 @@
 
 ---
 
+## 📚 NPTEL
+<div align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/NPTEL/NPTEL_English_Language_for_Competitive_Exams_Certificate_page-0001.png?raw=true" width="400"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/NPTEL/NPTEL_Human_Computer_Interaction_Certificate_page-0001.png?raw=true" width="400"/>
+</div>
+
+---
+
 ## 🥇 Badges
 
 ### ☁️ Google Cloud
@@ -201,7 +217,7 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/GoogleCloud/GoogleCloud_Develop_Your_Google_Cloud_Network_Badge.png?raw=true" width="200"/>
 </div>
 
-### 🔷 Microsoft · Cisco · IBM · RedHat · Skillsoft
+### 🔷 Microsoft · Cisco · IBM · MongoDB · RedHat · Skillsoft
 <div align="center">
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Microsoft/Microsoft_Security_Compliance_Identity_Fundamentals_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Cisco/Cisco_HTML_Essentials_Badge.png?raw=true" width="175"/>
@@ -217,6 +233,8 @@
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM/IBM_Web_Development_Fundamentals_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM/IBM_AI_Fundamentals_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/IBM/IBM_Enterprise_Security_in_Practice_Badge.png?raw=true" width="175"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/MongoDB/MongoDB_CRUD_Operations_Badge.png?raw=true" width="175"/>
+  <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/MongoDB/MongoDB_From_Relational_to_Document_Model_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/RedHat/RedHat_System_Administration_I_RH124_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft/Skillsoft_Introduction_to_Computer_Architecture_Badge.png?raw=true" width="175"/>
   <img src="https://github.com/Abin-Shaji-Thomas/Certifications-and-Badges/blob/main/Certifications%20and%20Badges/Skillsoft/Skillsoft_Binary_and_Logic_Gates_Badge.jpeg?raw=true" width="175"/>
